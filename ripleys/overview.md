@@ -15,6 +15,9 @@ The players will each assume the role(s) of Janitor, Security Gaurd, Curator, an
 
 One of the many exibits at Ripleys is the slightly problematic: "Indian Religion" hall. Which shows off a colleciton of artifacts from native American cultures. Unfortunately the curator is aware that this exshibit is inaccurate at best and offensive to some. If they raise the issue to management they are ignored.
 
-The hall is filled with special artifacts which the site manager [Nathan Ripley](./npcs/nathan_ripley.md) is attempting to use to alter the past in order to become even more wealthy. The artifacts are:
+The hall is filled with special artifacts which the site manager [Nathan](./npcs/nathan_ripley.md) is attempting to use to alter the past in order to become even more wealthy. The artifacts are:
  - A peace pipe that allows the smoker to see through the eyes of an ancestor
- - 
+ - An Arrow head that can be used to "peirce the veil" and see truth in lies
+ - A dream catcher that can be used to see posisble futures (while sleeping)
+ - A totem pole which summons spirits to protect the user's interests
+
